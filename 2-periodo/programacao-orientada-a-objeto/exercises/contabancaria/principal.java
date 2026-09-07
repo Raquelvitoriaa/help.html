@@ -1,4 +1,4 @@
-public class Principal {
+/* public class Principal {
     public static void main (String[] args){
         ContaBancaria contaPF = new ContaBancaria();
         ContaBancaria contaPj = new ContaBancaria();
@@ -57,7 +57,7 @@ public class Principal {
         boolean aceita = true;
         String aceitaConvertido = String.valueOf(aceita);
     }
-}
+} */
 
 ---
 
