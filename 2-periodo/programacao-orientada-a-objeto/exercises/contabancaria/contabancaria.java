@@ -1,4 +1,4 @@
-public class ContaBancaria {
+/* public class ContaBancaria {
     int numConta, agencia;
     String titular, tipoConta;
     double saldo = 0.00;
@@ -7,7 +7,6 @@ public class ContaBancaria {
     public void depositar(double valor){
         saldo += valor;
     }
-
     public void sacar(double valor){
         saldo -= valor;
     }
@@ -42,7 +41,7 @@ public class ContaBancaria {
         saldo = saldo - TAXA_MANUTENCAO_CONTA;
         return saldo;
     }
-}
+} */
 
 ---
 
