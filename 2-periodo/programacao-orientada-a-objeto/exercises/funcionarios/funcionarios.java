@@ -1,23 +1,23 @@
-public class Funcionario(){
-
+public class Funcionario {
+    
     String nome;
     String cpf;
     String cargo;
     double salarioMensal;
     String departamento;
 
-    public Funcionarios (String nome, String cpf, String cargo, String departamento, double salarioMensal){
+    public Funcionario(String nome, String cpf, String cargo, String departamento, double salarioMensal) {
 
         this.nome = nome;
         this.cpf = cpf;
         this.cargo = cargo;
         this.departamento = departamento;
-        this.salarioMensal;
+        this.salarioMensal = salarioMensal;
     }
-
-     public void calcularSalarioAnual() {
+        
+     public double calcularSalarioAnual() {
          double anual = salarioMensal * 12;
-        return salarioMensal;
+        return anual;
     }
     
     public void  aplicarAumento(double percentual) {
