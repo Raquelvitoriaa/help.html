@@ -15,3 +15,6 @@ https://www.perplexity.ai/
 
 **Site para ajudar na criacao de um site**
 https://vsbattles.fandom.com/wiki/Leviathans_(Supernatural)#Summary
+
+**POO**
+https://youtu.be/ohmHbdUhAGc?si=jdYSv22Fp5Lksrbc
